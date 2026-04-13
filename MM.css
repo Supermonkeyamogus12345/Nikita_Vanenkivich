@@ -139,7 +139,7 @@
     @media (max-width: 768px){
     body{background-color: grey; width: 100%}
     .card{width: 66%}
-    .logo{width:95vw height: auto;}
+    .logo{width:95vw; height: auto;}
     h1{font-size: 29px;left: 65px;}
     .imgdl{width: 165px; border: 15px solid black; position: absolute; left: 56px; top: 152px;}
     h3{margin: 0px; position: absolute; top: 83px; left: 43px}
